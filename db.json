@@ -1,1 +1,67 @@
 
+{
+  "posts": [
+    {
+      {
+    status: 'PENDING',
+    userType: 'CUSTOMER',
+    Aadhar:[
+      {
+        aadharNo: '123409874567',
+        aadharFrontImage: '',
+        aadharBackImage: '',
+        documentId: '1',
+        name:'AADHAAR',
+      },
+    ],
+    fssai:[
+      {
+        documentId: '2',
+        fssaiRegistrationNo:'AUDODDDD7373GD8',
+        fssaiIssuedDate:'28/06/2020',
+        fssaiExpiryDate:'27/06/2022',
+        fssaiFrontImage:'',
+        name:'FSSAI',
+      },
+    ],
+    pan:[
+      {
+        documentId:'3',
+        panNo:'KDHS38DD8',
+        panFrontImage:'',
+        name:'PAN',
+      },
+    ],
+    gst:[
+      {
+        documentId:'4',
+        gstRegistrationNo:'JHCGJHKD7YE336E6ENX',
+        gstIssuedDate:'28/062020',
+        gstFrontImage:'',
+        name:'GST',
+      },
+    ],
+   
+    email: 'GOKUL6694@GMAIL.COM',
+    phone: '6235355221',
+    dob: '28/062000',
+    name: 'GOKUL',
+    username: 'GOKUL6694@GMAIL.COM',
+    surname: 'KRISHNA',
+    customerId: '0001',
+    role: 'CUSTOMER',
+    agentId: '1000',
+    addressDetails: {
+      addressLine1: 'KRISHNA KAMALAM',
+      addressLine2: 'THIRUMALA',
+      city: 'TRIVANDRUM',
+      country: 'INDIA',
+      postalCode: '695032',
+      state: 'KERALA',
+    },
+    }
+  ],
+  "profile": {
+    "name": "GOKUL6694"
+  }
+}
