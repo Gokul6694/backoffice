@@ -59,6 +59,10 @@
       postalCode: '695032',
       state: 'KERALA',
     },
+   supportedCurrencies: [],
+    supportedCryptoCurrencies: [],
+    inwardAccount: [],
+    internalBankAccount: [],
     }
   ],
   "profile": {
